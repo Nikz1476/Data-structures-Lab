@@ -1,4 +1,4 @@
-//To find minimum number of elements that can be removed from begining to have an array without duplicate elements
+//Find minimum number of elements that can be removed from begining to have an array without duplicates.
 #include <unordered_set>
 #include <iostream>
 using namespace std;
@@ -40,4 +40,5 @@ int main(){
         solve();
     }
     return 0;
+
 }
